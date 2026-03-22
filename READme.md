@@ -18,7 +18,7 @@ A backend-focused MERN stack developer who loves building solid, scalable server
 - Collaborate on full-stack MERN projects
 
 ## 📫 Let's Connect
-- GitHub: [@MaznziYvan](https://github.com/MaznziYvan)
+- GitHub: [@MaznziYvan](https://github.com/sil-ex-it-7)
 
 ---
 *"If the server is happy, everyone is happy."*
